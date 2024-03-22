@@ -1,0 +1,216 @@
+{
+    "documents": [
+        {
+            "id": "id__624",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.27,
+                "neutral": 0.06,
+                "negative": 0.67
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 78,
+                    "text": "Having had several good trips to this hotel before we were excited to return.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.98
+                    },
+                    "offset": 78,
+                    "length": 182,
+                    "text": "We arrived after our long flight from London to check in and at the front desk were told that the room category we booked wasn’t available and we were offered a room we didn’t want. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.64,
+                        "negative": 0.33
+                    },
+                    "offset": 260,
+                    "length": 29,
+                    "text": "Twin beds instead of a king. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.02,
+                        "negative": 0.97
+                    },
+                    "offset": 289,
+                    "length": 99,
+                    "text": "After a long period of awkwardness whilst they made several phone calls we were taken to our room. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.24,
+                        "negative": 0.75
+                    },
+                    "offset": 388,
+                    "length": 47,
+                    "text": "We went to take a shower and had no hot water. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.07,
+                        "negative": 0.93
+                    },
+                    "offset": 435,
+                    "length": 128,
+                    "text": "We called the front desk and were told that there were 500 other guests in the hotel which is why we weren’t getting hot water. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 563,
+                    "length": 101,
+                    "text": "I explained that the hotel should as a basic be able to allow guests to take a shower in their room. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.89,
+                                "negative": 0.11
+                            },
+                            "offset": 585,
+                            "length": 5,
+                            "text": "hotel",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/6/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "mixed",
+                            "confidenceScores": {
+                                "positive": 0.89,
+                                "negative": 0.11
+                            },
+                            "offset": 603,
+                            "length": 5,
+                            "text": "basic",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 664,
+                    "length": 106,
+                    "text": "They sent maintenance out to us, who advised us we needed to run both the sink taps to trigger hot water. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 770,
+                    "length": 109,
+                    "text": "So everyone we want to take a shower, we have to run several taps first to allow the shower water to be hot.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.91,
+                        "negative": 0.07
+                    },
+                    "offset": 879,
+                    "length": 108,
+                    "text": "I would expect a guest to receive hot water from the shower when spending almost $2000 per night on a room.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.01,
+                        "negative": 0.98
+                    },
+                    "offset": 987,
+                    "length": 58,
+                    "text": "Sadly our fond memories of the One Hotel have diminished. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.87,
+                        "neutral": 0.08,
+                        "negative": 0.05
+                    },
+                    "offset": 1045,
+                    "length": 88,
+                    "text": "We will stay somewhere else next time, despite having such good trips here in the past. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.91,
+                        "negative": 0.06
+                    },
+                    "offset": 1133,
+                    "length": 9,
+                    "text": "Read less",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
